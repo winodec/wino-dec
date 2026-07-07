@@ -1,5 +1,5 @@
 # wino-dec
-This repository contains a dataset for investigating gender bias in the embedding space of decoder-only foundation models. It comes from the paper [*A Representation-Level Assessment of Bias Mitigation in Foundation Models*](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1qvE9sAAAAJ&citation_for_view=_1qvE9sAAAAJ:d1gkVwhDpl0C) by Nizhnichenkov et. al. 
+This repository contains a dataset for investigating gender bias in the embedding space of decoder-only foundation models. It comes from the paper [*A Representation-Level Assessment of Bias Mitigation in Foundation Models*](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_1qvE9sAAAAJ&citation_for_view=_1qvE9sAAAAJ:d1gkVwhDpl0C) by [Nizhnichenkov](https://scholar.google.com/citations?user=_1qvE9sAAAAJ&hl=en) et. al. 
 
 ## Citation
 
